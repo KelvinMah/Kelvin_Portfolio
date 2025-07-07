@@ -1,0 +1,37 @@
+[
+    {
+        "albumImageDest": "/images/songs/city-pop/1.png",
+        "title": "Plastic Love",
+        "artist": "Mariya Takeuchi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=T_lC2O1oIew&list=RDT_lC2O1oIew&start_radio=1&ab_channel=%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-MariyaTakeuchiOfficialYouTubeChannel",
+        "spotifyUrl": "https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq?si=d97bbe644273413e"
+    },
+    {
+        "albumImageDest": "/images/songs/city-pop/2.png",
+        "title": "Last Summer Whisper",
+        "artist": "Anri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hrwx7h4_7oE&list=RDhrwx7h4_7oE&start_radio=1&ab_channel=ANRI%E6%9D%8F%E9%87%8COfficial",
+        "spotifyUrl": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2?si=c11aefe84d5f4951"
+    },
+    {
+        "albumImageDest": "/images/songs/city-pop/3.png",
+        "title": "Candy",
+        "artist": "Naoko Gushima",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AADQuhYHbf4&list=RDAADQuhYHbf4&start_radio=1&ab_channel=NaokoGushima%E5%85%B7%E5%B3%B6%E7%9B%B4%E5%AD%90",
+        "spotifyUrl": "https://open.spotify.com/track/6TdE2qJLF6WVjmSI9tejG2?si=41f25bd285f341d5"
+    },
+    {
+        "albumImageDest": "/images/songs/city-pop/4.png",
+        "title": "Kimi Wa 1000 Percent",
+        "artist": "Ai Furihata",
+        "youtubeUrl": "https://www.youtube.com/watch?v=40m5h9s7rdU&list=RD40m5h9s7rdU&start_radio=1&ab_channel=AiFurihata-Topic",
+        "spotifyUrl": "https://open.spotify.com/track/7fe3Cz5poGPedxy4CtQ48l?si=02487dd7f7aa4a03"
+    },
+    {
+        "albumImageDest": "/images/songs/city-pop/5.png",
+        "title": "I Can't Stop The Loneliness",
+        "artist": "Anri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6q6GtPdVHL4&list=RD6q6GtPdVHL4&start_radio=1&ab_channel=ANRI-Topic",
+        "spotifyUrl": "https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze?si=33eb88152acd4085"
+    }
+]

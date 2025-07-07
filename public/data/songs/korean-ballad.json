@@ -1,0 +1,37 @@
+[
+    {
+        "albumImageDest": "/images/songs/korean-ballad/1.png",
+        "title": "남자를 몰라",
+        "artist": "Buzz",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jjuB0S2460Q&list=RDjjuB0S2460Q&start_radio=1&ab_channel=%EC%9B%85%ED%82%A4",
+        "spotifyUrl": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc?si=25d75f59d002467d"
+    },
+    {
+        "albumImageDest": "/images/songs/korean-ballad/2.png",
+        "title": "여전히 아름다운지",
+        "artist": "Kim Yeon Woo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JuARdrOSVWU&list=RDJuARdrOSVWU&start_radio=1&ab_channel=KSECTORLYRICS",
+        "spotifyUrl": "https://open.spotify.com/track/73e8u4XEcipWIgtHTtPnIN?si=a49b6f9056af4398"
+    },
+    {
+        "albumImageDest": "/images/songs/korean-ballad/3.png",
+        "title": "사랑합니다...",
+        "artist": "Tim",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7Zs7UM-EBLs&list=RD7Zs7UM-EBLs&start_radio=1&ab_channel=Tim-Topic",
+        "spotifyUrl": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc?si=1acca024ea504a39"
+    },
+    {
+        "albumImageDest":"/images/songs/korean-ballad/4.png",
+        "title": "Only",
+        "artist": "LeeHi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KmOVNVZEP9o&list=RDKmOVNVZEP9o&start_radio=1&ab_channel=AOMGOFFICIAL",
+        "spotifyUrl": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI?si=211ddbb41602461b"
+    },
+    {
+        "albumImageDest": "/images/songs/korean-ballad/5.png",
+        "title": "눈 떠보니 이별이더라",
+        "artist": "4Men",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3nqkdt2vvME&list=RD3nqkdt2vvME&start_radio=1&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29",
+        "spotifyUrl": "https://open.spotify.com/track/22CY3wlF8O6Z9QkOWYhaz5?si=a84b8f502b324d13"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "albumImageDest": "/images/songs/jp-music/1.png",
+        "title": "優しい彗星",
+        "artist": "Yoasobi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VyvhvlYvRnc&list=RDVyvhvlYvRnc&start_radio=1&ab_channel=Ayase%2FYOASOBI",
+        "spotifyUrl": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c?si=193590a859d04534"
+    },
+    {
+        "albumImageDest": "/images/songs/jp-music/2.png",
+        "title": "耳わほう",
+        "artist": "Maggie_麦吉",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uPtUcdTpXnM&list=RDuPtUcdTpXnM&start_radio=1&ab_channel=Maggie_%E9%BA%A6%E5%90%89",
+        "spotifyUrl": "https://open.spotify.com/track/2StLz1e2VTwCm8Jnkke7OF?si=8238fac7a8b94679"
+    },
+    {
+        "albumImageDest": "/images/songs/jp-music/3.png",
+        "title": "幸せ",
+        "artist": "Kobasolo & Chiai Fujikawa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ruxJacIFKL4&list=RDruxJacIFKL4&start_radio=1&ab_channel=kobasolo",
+        "spotifyUrl": "https://open.spotify.com/track/0gMBJZG9ntLixzEyArLzyV?si=824c1f5d8d6c4702"
+    },
+    {
+        "albumImageDest": "/images/songs/jp-music/4.png",
+        "title": "雪の華",
+        "artist": "Mika Nakashima",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mF5Qq2YheTg&list=RDmF5Qq2YheTg&start_radio=1&ab_channel=%E4%B8%AD%E5%B3%B6%E7%BE%8E%E5%98%89OfficialYouTubeChannel",
+        "spotifyUrl": "https://open.spotify.com/track/6Zyizxfz4NXdCgVLwhuBNw?si=fbe342f755954854"
+    },
+    {
+        "albumImageDest": "/images/songs/jp-music/5.png",
+        "title": "あなたに出会わなければ",
+        "artist": "Aimer",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iA9Ctaqo3Zc&list=RDiA9Ctaqo3Zc&start_radio=1&ab_channel=AimerOfficialVEVO",
+        "spotifyUrl": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc?si=97107ef328124ed7"
+    }
+]

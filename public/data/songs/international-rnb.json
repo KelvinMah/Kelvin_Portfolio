@@ -1,0 +1,38 @@
+[
+    {
+        "albumImageDest": "/images/songs/international-r&b/1.png",
+        "title": "All Mine",
+        "artist": "Fujita Kenya",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qKpBlv3w4M4&list=RDqKpBlv3w4M4&start_radio=1&ab_channel=%E8%97%A4%E7%94%B0%E7%B9%94%E4%B9%9FKenyaFujita",
+        "spotifyUrl": "https://open.spotify.com/track/0bbrsFG5BNrJgbsKVuRRH0?si=2e84ca9a8ef54ada"
+    },
+    {
+        "albumImageDest": "/images/songs/international-r&b/2.png",
+        "title": "Loop",
+        "artist": "Sirup",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mHrjM6oVez0&list=RDmHrjM6oVez0&start_radio=1&ab_channel=SIRUPOfficial",
+        "spotifyUrl": "https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs?si=c20f55e249564400"
+    },
+    {
+        "albumImageDest": "/images/songs/international-r&b/3.png",
+        "title": "Some",
+        "artist": "BOL4",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hZmoMyFXDoI&list=RDhZmoMyFXDoI&start_radio=1&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29",
+        "spotifyUrl": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9?si=73066eb87b7843b1"
+    },
+    {
+        "albumImageDest": "/images/songs/international-r&b/4.png",
+        "title": "Only Look At Me",
+        "artist": "Taeyang",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3bRrGsNymUI&list=RD3bRrGsNymUI&start_radio=1&ab_channel=BIGBANG",
+        "spotifyUrl": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu?si=bc2b189526fb4912"
+    },
+    {
+        "albumImageDest": "/images/songs/international-r&b/5.png",
+        "title": "Tonight",
+        "artist": "demxntia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hjgdRt6yUa4&list=RDhjgdRt6yUa4&start_radio=1&ab_channel=demxntia",
+        "spotifyUrl": "https://open.spotify.com/track/1MALdPtLCcHHmoeUWwG0Tf?si=935becc30646446b"
+    }
+    
+]
