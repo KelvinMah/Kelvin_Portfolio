@@ -18,6 +18,7 @@ import {
   SiJavascript,
   SiNodedotjs,
   SiRedux,
+  SiAwslambda
 } from "react-icons/si";
 import TechTag from "../common/TechTag";
 
@@ -82,6 +83,10 @@ export default function Title() {
     {
       name: "Figma",
       icon: <SiFigma color={"#090908"} />,
+    },
+    {
+      name: "AWS",
+      icon: <SiAwslambda color={"green"} />,
     },
     {
       name: "GIT",

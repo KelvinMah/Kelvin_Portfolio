@@ -124,14 +124,14 @@ function HomePage() {
       <ProjectCard
         title="Real-Time Compliance Dashboard"
         role="DevOps / Backend"
-        thumbnail="/images/ComplianceDashboard/compliancedashboard.png"
-        description="Engineered a real-time policy violation monitoring system using Kafka, FastAPI, and PostgreSQL, deployed on AWS ECS Fargate with React dashboards and CloudWatch observability — capable of ingesting and analyzing 100K+ logs daily."
+        thumbnail="/images/ComplianceDashboard/0.png"
+        description="Engineered a real-time policy violation monitoring system using Kafka, FastAPI, and PostgreSQL, deployed on AWS ECS Fargate with React dashboards and CloudWatch observability capable of ingesting and analyzing 100K+ logs daily."
         technologies={ComplianceDashboard}
       />
       <ProjectCard
         title="AI Workflow Assistant"
         role="AI Engineering"
-        thumbnail="/images/AIWorkflowAssistant/ai_assistant.png"
+        thumbnail="/images/AIWorkflowAssistant/0.png"
         description="Designed a modular agent chaining system for bug triage, code review, and doc generation with OpenAI API and Redis queues, visualized via a React dashboard and deployed with PostgreSQL and Docker microservices."
         technologies={AIWorkflowAssistant}
       />
@@ -147,7 +147,7 @@ function HomePage() {
       <ProjectCard
         title="Community Micro-Banking App"
         role="Full Stack"
-        thumbnail="/images/FinanceTracker/microbanking.png"
+        thumbnail="/images/FinanceTracker/0.png"
         description={
           "Built a secure, contribution-based group savings platform with Node.js, GraphQL, and MongoDB, integrating Firebase Auth and Dockerized deployment to support multi-user workflows and 200+ transaction simulations."
         }
@@ -158,7 +158,7 @@ function HomePage() {
         role="Full Stack"
         thumbnail="/images/AuctionHouse/0.png"
         description={
-          "A full-stack auction management system built with TypeScript and React for the frontend, Node.js and Express for the backend, and Oracle SQL for robust relational data storage of auctions, bidders, and transactions."
+          "A full-stack auction management system built with TypeScript and React for the frontend, Node.js and Express for the backend, and PostgresSQL for robust relational data storage of auctions, bidders, and transactions."
         }
         technologies={AuctionHouse}
       />
