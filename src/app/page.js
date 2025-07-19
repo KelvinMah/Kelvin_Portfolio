@@ -1,6 +1,6 @@
 import Title from "@/components/homepage/Title";
 import ProjectCard from "@/components/homepage/ProjectCard";
-import { FaJava } from "react-icons/fa";
+import { FaJava, FaAmazon } from "react-icons/fa";
 import {
   SiPython,
   SiPytorch,
@@ -16,13 +16,21 @@ import {
   SiReact,
   SiTailwindcss,
   SiJavascript,
-  SiBioregistry,
   SiNodedotjs,
   SiOracle,
   SiTypescript,
   SiCss3,
   SiGit,
-  SiFigma
+  SiFigma,
+  SiDocker,
+  SiGraphql,
+  SiFirebase,
+  SiStripe,
+  SiFastapi,
+  SiAmazonecs,
+  SiRedis,
+  SiApachekafka,
+  SiMongodb
 } from "react-icons/si";
 import { BiLogoPostgresql } from "react-icons/bi";
 
@@ -49,31 +57,29 @@ function HomePage() {
       icon: <SiGit color={"black"} />,
     },
   ];
-  const FinanceTracker = [
-    { 
-      name: "Java", 
-      icon: <FaJava /> 
-    },
-    { 
-      name: "Spring Boot", 
-      icon: <SiSpringboot /> 
-    },
-    { 
-      name: "PostgreSQL", 
-      icon: <BiLogoPostgresql /> 
-    },
-    { 
-      name: "React", 
-      icon: <SiReact /> 
-    },
-    { 
-      name: "Tailwind CSS", 
-      icon: <SiTailwindcss /> 
-    },
-    {
-      name: "GIT",
-      icon: <SiGit color={"black"} />,
-    },
+  const ComplianceDashboard = [
+    { name: "FastAPI", icon: <SiFastapi /> },
+    { name: "Kafka", icon: <SiApachekafka /> },
+    { name: "PostgreSQL", icon: <BiLogoPostgresql /> },
+    { name: "React", icon: <SiReact /> },
+    { name: "AWS ECS", icon: <SiAmazonecs /> },
+    { name: "Docker", icon: <SiDocker /> },
+  ];
+  const AIWorkflowAssistant = [
+    { name: "Node.js", icon: <SiNodedotjs /> },
+    { name: "OpenAI API", icon: <SiOpenai /> },
+    { name: "Redis", icon: <SiRedis /> },
+    { name: "PostgreSQL", icon: <BiLogoPostgresql /> },
+    { name: "React", icon: <SiReact /> },
+    { name: "Docker", icon: <SiDocker /> },
+  ];
+  const MicroBankingApp = [
+    { name: "Node.js", icon: <SiNodedotjs /> },
+    { name: "GraphQL", icon: <SiGraphql /> },
+    { name: "MongoDB", icon: <SiMongodb /> },
+    { name: "React", icon: <SiReact /> },
+    { name: "Firebase Auth", icon: <SiFirebase /> },
+    { name: "Docker", icon: <SiDocker /> },
   ];
   const AuctionHouse = [
     {
@@ -116,6 +122,20 @@ function HomePage() {
     <div className="flex flex-col items-center mx-auto min-h-screen max-w-[1280px] mt-28 px-5">
       <Title />
       <ProjectCard
+        title="Real-Time Compliance Dashboard"
+        role="DevOps / Backend"
+        thumbnail="/images/ComplianceDashboard/compliancedashboard.png"
+        description="Engineered a real-time policy violation monitoring system using Kafka, FastAPI, and PostgreSQL, deployed on AWS ECS Fargate with React dashboards and CloudWatch observability — capable of ingesting and analyzing 100K+ logs daily."
+        technologies={ComplianceDashboard}
+      />
+      <ProjectCard
+        title="AI Workflow Assistant"
+        role="AI Engineering"
+        thumbnail="/images/AIWorkflowAssistant/ai_assistant.png"
+        description="Designed a modular agent chaining system for bug triage, code review, and doc generation with OpenAI API and Redis queues, visualized via a React dashboard and deployed with PostgreSQL and Docker microservices."
+        technologies={AIWorkflowAssistant}
+      />
+      <ProjectCard
         title="RL-GameBot"
         role="Reinforcement Learning"
         thumbnail="/images/RL-GameBot/0.png"
@@ -125,13 +145,13 @@ function HomePage() {
         technologies={RL_GameBot}
       />
       <ProjectCard
-        title="Personal Finance Tracker"
+        title="Community Micro-Banking App"
         role="Full Stack"
-        thumbnail="/images/FinanceTracker/0.png"
+        thumbnail="/images/FinanceTracker/microbanking.png"
         description={
-          "A secure finance web application featuring a Spring Boot backend with RESTful APIs and PostgreSQL persistence, and a React + Tailwind CSS frontend for tracking income, expenses, and budgets with role-based authentication."
+          "Built a secure, contribution-based group savings platform with Node.js, GraphQL, and MongoDB, integrating Firebase Auth and Dockerized deployment to support multi-user workflows and 200+ transaction simulations."
         }
-        technologies={FinanceTracker}
+        technologies={MicroBankingApp}
       />
       <ProjectCard
         title="Auction House Database"
