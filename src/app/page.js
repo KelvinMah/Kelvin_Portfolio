@@ -1,6 +1,6 @@
 import Title from "@/components/homepage/Title";
 import ProjectCard from "@/components/homepage/ProjectCard";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/next";
 import { FaJava, FaAmazon } from "react-icons/fa";
 import {
   SiPython,
