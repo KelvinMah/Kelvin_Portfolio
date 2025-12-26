@@ -1,6 +1,7 @@
 import Title from "@/components/homepage/Title";
 import ProjectCard from "@/components/homepage/ProjectCard";
 import { FaJava, FaAmazon } from "react-icons/fa";
+import { BiLogoPostgresql } from "react-icons/bi";
 import {
   SiPython,
   SiPytorch,
@@ -32,7 +33,6 @@ import {
   SiApachekafka,
   SiMongodb
 } from "react-icons/si";
-import { BiLogoPostgresql } from "react-icons/bi";
 
 function HomePage() {
   const RL_GameBot = [
